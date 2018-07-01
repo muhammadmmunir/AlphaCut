@@ -1,0 +1,8 @@
+D:\Visual Studio\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Visual Studio\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Visual Studio\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Visual Studio\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Visual Studio\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Visual Studio\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Visual Studio\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Visual Studio\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.GraphFuzzy.resources
